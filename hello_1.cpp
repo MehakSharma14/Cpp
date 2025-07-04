@@ -6,7 +6,7 @@ int main(){
     cin>>a;
     cout<<"enter b: "<<endl;
     cin>>b;
-    cout<<"press 1 for addittion"<<endl<<"press 2 for addittion"<<endl<<"press 3 for addittion"<<endl<<"press 4 for addittion";
+    cout<<"press 1 for addittion"<<endl<<"press 2 for subtraction"<<endl<<"press 3 for multiply"<<endl<<"press 4 for division";
     int ch;
     // cin>>a;
     // cin>>b;
