@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Even and Odd
+=======
+//Even and Odd
+>>>>>>> ad6aae5a3d5802ac5f1295a4f29a508189688c99
 #include<iostream>
 using namespace std;
 int main(){
