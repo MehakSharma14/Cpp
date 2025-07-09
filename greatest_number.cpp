@@ -1,3 +1,4 @@
+// Greatest number
 #include<iostream>
 using namespace std;
 int main(){
@@ -18,3 +19,7 @@ int main(){
         cout<<"greatest number is:"<<c;
     }
 }
+
+
+
+// leap, vowels, special character - digit-aplhabet, grades 
